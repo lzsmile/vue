@@ -1,0 +1,33 @@
+/* CSS Document */
+#_contain{ margin-bottom:2rem;}
+.logo-dbs{ position:absolute; bottom:1rem; left:3rem;}
+.banner{ position:relative; width:12.42rem; height:6.6rem; overflow:hidden;}
+.banner img{ width:12.42rem; height:6.6rem;}
+.menu{ width:12.42rem; height:3.03rem; border-bottom:5px solid #d9d9d9; background-color:#e0e0e0;}
+.menu .nav{ float:left; width:1.42rem; height:2.2rem; margin:0.43rem 0.51rem 0 1.04rem; overflow:hidden; font-size:0.4rem; text-align:center;}
+.menu .nav img{ width:1.42rem; height:1.42rem;}
+.menu .nav p{ font-size:0.4rem;}
+.name{ width:12.42rem; height:1.05rem; font-size:0.38rem; line-height:1.3rem; border-bottom:1px solid #e1e1e1;}
+.name p{ margin-left:0.47rem;}
+.contain{ width:12.14rem; height:100%; margin:0 0.14rem; overflow:hidden;}
+.ad{ width:12.14rem; height:5rem; margin-top:0.3rem;}
+.ad img{ width:12.14rem; height:5rem;}
+.ad-left ,.add-right{ float:left; width:5.92rem; height:3.8rem; margin-top:0.3rem; overflow:hidden;}
+.ad-left{ margin-right:0.3rem;}
+.ad-left img,.add-right img{ width:5.92rem; height:3.8rem;}
+.favorable{ width:12.42rem; height:100%; overflow:hidden;}
+.fb:nth-child(odd){ float:left; width:6.18rem; height:6.7rem; border-right:1px solid #e1e1e1; border-bottom:1px solid #e1e1e1; overflow:hidden;}
+.fb:nth-child(even){ float:left; width:6.18rem; height:6.7rem; border-bottom:1px solid #e1e1e1; overflow:hidden;}
+.cbr{ border-right:none;}
+.fb-lt{ width:5.9rem; height:6.5rem; margin:0.3rem 0.14rem 0 0.14rem;}
+.fb-lt img{ width:5.9rem; height:3.8rem; display:block;}
+.fb-lt p{}
+.fb-lt p.fb-name{ margin-top:0.3rem; font-size:0.48rem;}
+.fb-lt p.price{ margin-top:0.2rem; font-size:0.3rem;}
+.fb-lt p span{ font-size:0.3rem; color:#d7d7d7;}
+.fb-lt p span.discount{ float:left; margin:0.2rem 0 0 0.5rem; color:#f46b29;}
+.fb-lt p span.num{ float:right; margin-right:0.5rem;}
+.fb-lt p span big{ font-size:0.5rem; color:#ff3500;}
+.more{ width:12.42rem; height:1.37rem; line-height:1.37rem; text-align:center; cursor:pointer;}
+.more p{ font-size:0.4rem; color:#7ecef4;}
+.more p img{ width:0.2rem; height:0.33rem; margin-left:0.2rem;}

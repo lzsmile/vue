@@ -1,0 +1,30 @@
+[
+  {
+    "title":"塞班岛5-6天(欢乐自由行)",
+    "id":"1",
+    "price":"5699",
+    "zhekou":"4.7折",
+    "img":"src/assets/images/scenics/scenic_3.png"
+  },
+  {
+    "title":"夏威夷7天6晚(三天跟团三天自由行）",
+    "id":"2",
+    "price":"11799",
+    "zhekou":"8.7折",
+    "img":"/src/assets/images/scenics/scenic_4.png"
+  },
+  {
+    "title":"体验全球最长的过山车15天超爽旅游",
+    "id":"3",
+    "price":"21099",
+    "zhekou":"6.2折",
+    "img":"src/assets/images/scenics/scenic_5.png"
+  },
+  {
+    "title":"美国纽约曼哈顿5天游(脑残特朗普)",
+    "id":"3",
+    "price":"21099",
+    "zhekou":"6.2折",
+    "img":"/src/assets/images/scenics/scenic_6.png"
+  }
+]

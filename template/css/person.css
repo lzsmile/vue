@@ -1,0 +1,23 @@
+/* CSS Document */
+.head{ position:relative; width:12.42rem; height:6.62rem; overflow:hidden; background:url(../images/person/person_top.jpg) no-repeat; background-size:12.42rem 6.62rem; color:#fff;}
+.head .head-img{ position:absolute; top:1.15rem; left:5rem; width:2.4rem; height:2.5rem; text-align:center; }
+.head .head-img img{ width:1.52rem; height:1.52rem;}
+.head .head-img p{ width:2.4rem; height:0.65rem; line-height:0.65rem; overflow:hidden; font-size:0.43rem;}
+.head .head-img p span{ width:1.2rem; text-align:center;}
+.head .head-img p span.line{ border-right:1px solid #b8b0aa; margin-right:0.25rem; padding-right:0.25rem;}
+.logo-dbs{ position:absolute; bottom:1.35rem; left:3.2rem;}
+.head .bt{ position:absolute; bottom:0; left:0.4rem; width:11.62rem; height:1.15rem; text-align:center; border-top:1px solid #b8b0aa; overflow:hidden;}
+.head .bt p{ float:left; width:5.78rem; height:0.65rem; line-height:0.65rem; text-align:center; margin: 0.3rem 0; font-size:0.42rem;}
+.head .bt p.bt-lf{ border-right:1px solid #b8b0aa; }
+.whe{ width:12.42rem; height:2.4rem; margin-top:0.25rem; border:1px solid #e5e5e5; border-left:none; border-right:none; overflow:hidden;}
+.whe .whe-lt{ float:left; width:6.18rem; height:1.4rem; text-align:center; font-size:0.4rem; margin:0.45rem 0;}
+.whe .whe-br{ border-right:1px solid #e1e1e1;}
+.whe .whe-lt p.lf-tp{}
+.whe .whe-lt p.lf-tp img{ width:0.71rem; height:0.65rem; vertical-align:middle; margin-right:0.3rem;}
+.whe .whe-lt p.lf-bt{ margin-top:0.4rem; color:#aeaeae;}
+.whe .whe-lt p.lf-bt span{ margin:0 0.18rem;}
+.person{ width:12.42rem; height:100%; border-top:1px solid #e5e5e5; margin:0.25rem 0 1rem 0; overflow:hidden;}
+.person .pn-lt{ width:12rem; height:1.57rem; margin-left:0.4rem; border-bottom:1px solid #e1e1e1; font-size:0.43rem;}
+.person .pn-lt p{ line-height:1.57rem;}
+.person .pn-lt p img.img-lf{ width:0.72rem; height:0.68rem; vertical-align:middle; margin-right:0.5rem;}
+.person .pn-lt p img.img-rt{ width:0.19rem; height:0.3rem; vertical-align:middle; margin-left:8.1rem;}
